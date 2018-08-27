@@ -1,6 +1,6 @@
 # Airport-schedule-py
 
-This was a home work during Practical optimisation with Python course during which we solved variety of supply chain problems.
+This was a home work during Practical optimisation with Python course. We solved variety of supply chain problems.
 
 We used Python and Gurobi optimiser (student licence).
 
